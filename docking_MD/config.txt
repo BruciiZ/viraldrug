@@ -1,0 +1,15 @@
+receptor = xxx.pdbqt
+
+center_x = xxx
+center_y = xxx
+center_z = xxx
+
+size_x = xx # size of x in Angstrom
+size_y = xx # size of y in Angstrom
+size_z = xx # size of z in Angstrom
+
+spacing = 0.5
+
+exhaustiveness = 32
+
+num_modes = 50
